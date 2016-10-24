@@ -15,8 +15,8 @@ Format of (Trial id).txt:
 Format of MemoryTest.txt:
   N-by-1 matrix in ASCII-delimited format of MATLAB
   one line for one element
-  each element indicates the result of memory test for each trial, that is “remembered” or “forgotten”. “1” represents     
-  “remembered” and “0” represents “forgotten”.
+  each element indicates the result of memory test for each trial, that is “remembered” or “forgotten”. 
+  “1” represents “remembered” and “0” represents “forgotten”.
   N elements for N trials in sequential order
   
 Format of Channel.txt:
