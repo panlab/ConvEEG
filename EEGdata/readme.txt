@@ -1,6 +1,6 @@
 The EEG data were recorded with a 32-channel BrainCap MR using a 32-channel Brain-Amp Amplifier (Brain Products, Munich, Germany, 5 kHz sampling). 
   
-Inside a P_( participant id) compressed file:
+Inside a P_(participant id) compressed file:
 • (Trial id).txt
 • MemoryTest.txt
 
